@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibPizza", "LibPizza.csproj", "{D79A2048-88EE-4B8B-8ECE-6C73E4706769}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cslPizza1", "..\cslPizza1\cslPizza1.csproj", "{BE2A56C8-5863-4C46-ADCE-C00D96466A56}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D79A2048-88EE-4B8B-8ECE-6C73E4706769} = {D79A2048-88EE-4B8B-8ECE-6C73E4706769}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF clsP", "..\WF clsP\WF clsP.csproj", "{B724D36B-2277-412D-84FB-03A2D2379016}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D79A2048-88EE-4B8B-8ECE-6C73E4706769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D79A2048-88EE-4B8B-8ECE-6C73E4706769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D79A2048-88EE-4B8B-8ECE-6C73E4706769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D79A2048-88EE-4B8B-8ECE-6C73E4706769}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE2A56C8-5863-4C46-ADCE-C00D96466A56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2A56C8-5863-4C46-ADCE-C00D96466A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2A56C8-5863-4C46-ADCE-C00D96466A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE2A56C8-5863-4C46-ADCE-C00D96466A56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B724D36B-2277-412D-84FB-03A2D2379016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B724D36B-2277-412D-84FB-03A2D2379016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B724D36B-2277-412D-84FB-03A2D2379016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B724D36B-2277-412D-84FB-03A2D2379016}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
