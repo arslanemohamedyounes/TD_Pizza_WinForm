@@ -1,0 +1,11 @@
+C:\Users\arsla\source\repos\LibPizza\bin\Debug\net8.0\LibPizza.deps.json
+C:\Users\arsla\source\repos\LibPizza\bin\Debug\net8.0\LibPizza.dll
+C:\Users\arsla\source\repos\LibPizza\bin\Debug\net8.0\LibPizza.pdb
+C:\Users\arsla\source\repos\LibPizza\obj\Debug\net8.0\LibPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsla\source\repos\LibPizza\obj\Debug\net8.0\LibPizza.AssemblyInfoInputs.cache
+C:\Users\arsla\source\repos\LibPizza\obj\Debug\net8.0\LibPizza.AssemblyInfo.cs
+C:\Users\arsla\source\repos\LibPizza\obj\Debug\net8.0\LibPizza.csproj.CoreCompileInputs.cache
+C:\Users\arsla\source\repos\LibPizza\obj\Debug\net8.0\LibPizza.dll
+C:\Users\arsla\source\repos\LibPizza\obj\Debug\net8.0\refint\LibPizza.dll
+C:\Users\arsla\source\repos\LibPizza\obj\Debug\net8.0\LibPizza.pdb
+C:\Users\arsla\source\repos\LibPizza\obj\Debug\net8.0\ref\LibPizza.dll
